@@ -10,5 +10,7 @@ Very simple Arduino sketch that utilizes the Morse library.
 Serial communication provides characters that the function morse_beep() reads.
 
 
+###hellomorse.mp3###
+Audio file with the phrase "hello world" translated to morse. 
 
 Made by Dimitrios Dimopoulos 2015.
